@@ -5,5 +5,7 @@ Thank you for your interest in hiring me! ( 感谢您有兴趣聘用我！)
 https://github.com/user-attachments/assets/41bcaa81-e4a8-4e46-bf2a-77d7e461a085
 ## Rhythm Game ( 节奏游戏 🎶)
 https://github.com/user-attachments/assets/e44e9943-d587-482d-a7b6-fef8bcdcc50f
-
+## 3 Second Dynamic Whitelist
+![image](https://github.com/user-attachments/assets/b8dcedf3-c58b-4fa4-b383-e20484f60fd7)
+Link/sources code: https://github.com/xor-lang-bit/3-seconds-hybrid-dynamic-whitelist
 ---
