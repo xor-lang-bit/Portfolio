@@ -12,4 +12,4 @@ https://github.com/user-attachments/assets/e44e9943-d587-482d-a7b6-fef8bcdcc50f
 # Pulse - SlingshotDAO Slingjam 1 Submission
 #### Made in 1 week | All scripting by me & building by [Mol](https://x.com/molGFX)
 ### RoBuilder reaction:
-https://youtu.be/P7vD_fICa2I?t=3292
+[![RoBuilder reaction](https://img.youtube.com/vi/P7vD_fICa2I/0.jpg)](https://youtu.be/P7vD_fICa2I?t=3293)
