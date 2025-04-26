@@ -9,3 +9,7 @@ https://github.com/user-attachments/assets/e44e9943-d587-482d-a7b6-fef8bcdcc50f
 ![image](https://github.com/user-attachments/assets/b8dcedf3-c58b-4fa4-b383-e20484f60fd7)
 #### Link/sources code: https://github.com/xor-lang-bit/3-seconds-hybrid-dynamic-whitelist
 ---
+# Pulse - SlingshotDAO Slingjam 1 Submission
+#### Made in 1 week | All scripting by me & building by [Mol](https://x.com/molGFX)
+### RoBuilder reaction:
+https://youtu.be/P7vD_fICa2I?t=3292
